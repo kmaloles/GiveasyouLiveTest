@@ -421,6 +421,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.exam.GiveasyouLiveTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -434,6 +435,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.exam.GiveasyouLiveTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -514,6 +516,7 @@
 				3CBFF1351EBB1D6B00D8973E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CBFF1361EBB1D6B00D8973E /* Build configuration list for PBXNativeTarget "GiveasyouLiveTestTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +525,7 @@
 				3CBFF1381EBB1D6B00D8973E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CBFF1391EBB1D6B00D8973E /* Build configuration list for PBXNativeTarget "GiveasyouLiveTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				3CBFF13B1EBB1D6B00D8973E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
